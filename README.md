@@ -37,6 +37,7 @@ The website is designed to showcase the company’s services, portfolio, and con
    ```bash
    cd software-firm-website
    ```
+  or cd your-folder-name
 
 3. Install dependencies:
 
